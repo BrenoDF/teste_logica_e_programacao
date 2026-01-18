@@ -1,6 +1,8 @@
 # Teste de Lógica e Programação:
 Observação: No teste considerei que o jogador de nome "Azul" sempre começará primeiro.
 
+##### Há dois códigos no repositório, usando programação estruturada e usando programação com POO. Sendo o último mais enxuto e direto ao ponto.
+
 ### Teste:
 <img width="679" height="785" alt="image" src="https://github.com/user-attachments/assets/e9fd9626-f50e-4a33-b1bf-e7cb9c9de599" />
 
@@ -14,3 +16,6 @@ Observação: No teste considerei que o jogador de nome "Azul" sempre começará
 3. _22,54 lançamentos_
 4. _O segundo jogador deve começar da casa número 7_ (obs: pressupondo que a regra da pergunta 3 não esteja sendo mais aplicada)
 5. _38,56%_
+
+### Respostas do código com POO:
+<img width="868" height="750" alt="image" src="https://github.com/user-attachments/assets/e3a81b5f-5c27-4d68-abbf-f06b24e3cd71" />
