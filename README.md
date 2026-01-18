@@ -12,5 +12,5 @@ Observação: No teste considerei que o jogador de nome "Azul" sempre começará
 1. _Probabilidade em torno de 52~53%_
 2. _3,11 cobras por jogo e 1,55 por jogador._
 3. _22,54 lançamentos_
-4. _O segundo jogador deve começar da casa número 10_ (obs: pressupondo que a regra da pergunta 3 não esteja sendo mais aplicada)
+4. _O segundo jogador deve começar da casa número 7_ (obs: pressupondo que a regra da pergunta 3 não esteja sendo mais aplicada)
 5. _38,56%_
